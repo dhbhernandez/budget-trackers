@@ -26,7 +26,7 @@ Techologies:
 ​
 ​
 ## Usage 
-[![Watch the video](https://github.com/dhbhernandez/workout-tracker/blob/main/workout-tracker-graph.png)](https://youtu.be/g_viRB1ay1g)
+[![Watch the video](https://github.com/dhbhernandez/budget-trackers/blob/main/budget-tracker.png)](https://youtu.be/g_viRB1ay1g)
 ​
 ## License
     MIT
